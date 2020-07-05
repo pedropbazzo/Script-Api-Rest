@@ -1,4 +1,4 @@
-bullhorn-api-example-python
+script-api-example-python
 ===========================
 This a sample Python application that demonstrates a very simple usage of the Bullhorn REST API from a Web application.
 
